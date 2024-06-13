@@ -16,9 +16,9 @@
       "customOpenIdConnectProviders": {
         "auth0": {
           "registration": {
-            "clientIdSettingName": "NxekXOuubNoerTyeZ29xSPGg4jiAZ1eC",
+            "clientIdSettingName": "AUTH_CLIENT_ID",
             "clientCredential": {
-              "clientSecretSettingName": "hJlWTckx1GKWsWUQo9k7vgXJKpHqkdx3Ir_WbLx72XHjYc1rNAWJ-a8hgYoA2Urx"
+              "clientSecretSettingName": "AUTH_CLIENT_SECRET"
             },
             "openIdConnectConfiguration": {
               "wellKnownOpenIdConfiguration": "https://turbocorsun-dev.us.auth0.com/.well-known/openid-configuration"
